@@ -8,7 +8,7 @@ This shows boils extents identified in moving frames, to enable tracking and mor
 [video 1: boils identification and extents](https://user-images.githubusercontent.com/96192288/154313103-02b25c8e-5865-4ef7-a2c5-cb1c6b481443.mp4/)
 
 If this link doesn't work please cut and paste the following url into your browser:  
-https://user-images.githubusercontent.com/96192288/154313103-02b25c8e-5865-4ef7-a2c5-cb1c6b481443.mp4
+[https://user-images.githubusercontent.com/96192288/154313103-02b25c8e-5865-4ef7-a2c5-cb1c6b481443.mp4](https://user-images.githubusercontent.com/96192288/154313103-02b25c8e-5865-4ef7-a2c5-cb1c6b481443.mp4)
 
 
 **Video 2:**  
