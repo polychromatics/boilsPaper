@@ -20,15 +20,6 @@ If this link doesn't work please cut and paste the following url into your brows
 https://user-images.githubusercontent.com/96192288/154313147-4c9dd6f4-1ced-450a-ae7c-1df5daf7b67c.mp4
 
 
-var mediaJSON = { "categories" : [ { "name" : "Movies",
-        "videos" : [ 
-		{ "description" : "Bleerrggghhhh",
-              "sources" : [ "https://user-images.githubusercontent.com/96192288/154313103-02b25c8e-5865-4ef7-a2c5-cb1c6b481443.mp4" ],
-              "subtitle" : "By Natasha Lucas",
-              "title" : "Yadda Yadda"
-            }
-    ]}]};
-
 
 
 
